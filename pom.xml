@@ -34,5 +34,6 @@
 	<modules>
 		<module>practice01</module>
 		<module>practice02</module>
+		<module>practice03</module>
 	</modules>
 </project>
