@@ -1,7 +1,7 @@
 package prob3;
 
 public class Unit {
-	// 현재 위치
+	// 현재 위치 
 	protected int x;
 	protected int y;
 	
@@ -12,5 +12,5 @@ public class Unit {
 	void stop() {
 		/* 현재 위치에 정지 */
 	}
-
+	
 }
